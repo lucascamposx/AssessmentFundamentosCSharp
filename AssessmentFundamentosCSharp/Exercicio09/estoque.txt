@@ -1,0 +1,5 @@
+MousePad,2,12
+Alexa,1,500
+Carregadoe,10,60
+Nootbook,2,4,5
+Mouse,10,75,5
